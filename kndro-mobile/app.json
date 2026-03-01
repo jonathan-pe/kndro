@@ -54,7 +54,7 @@
       "url": "https://u.expo.dev/eb49a19b-6c0a-4dcd-b14e-b177b9d12196"
     },
     "runtimeVersion": {
-      "policy": "appVersion"
+      "policy": "1.0.0"
     }
   }
 }
